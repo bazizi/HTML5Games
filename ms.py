@@ -1,3 +1,3 @@
 import os
 
-os.system("dir c:")
+os.system("start pidgin")
