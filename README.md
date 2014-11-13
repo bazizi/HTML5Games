@@ -1,7 +1,7 @@
 HTML5Games
 ==========
 
-Games I have developed using HTML5
+2 HTML5 games by Behnam Azizi
 
 ##TurtleWarrior
  A shooting-style action game
